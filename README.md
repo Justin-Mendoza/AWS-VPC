@@ -133,6 +133,7 @@ Here we see the IP addresses that transfer the most into our VPC, and If we see 
 
 
 4. Conclusion
+
 In establishing and configuring the AWS VPC, we successfully built a secure and efficient network infrastructure by leveraging AWS's comprehensive tools. The process began with creating the VPC and defining its components, including public and private subnets, route tables, and network connections. AWS's streamlined setup allowed for efficient configuration of these elements in one go.
 Security was a primary focus, with careful setup of Security Groups and Network ACLs to manage access and enforce rules. Security Groups provided detailed, instance-level control, while Network ACLs applied broader, subnet-wide rules, ensuring robust traffic management and protection.
 Route tables played a crucial role in directing traffic appropriately within the VPC and to the internet. We ensured that these tables were configured to make subnets public or private as needed, facilitating proper data routing.
