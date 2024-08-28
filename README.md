@@ -1,7 +1,7 @@
 # AWS-VPC
 Created a VPC infrastructure using AWS with security features such as Security Groups, ACLs, etc. Created public and private subnets and tested intra-subnet connectivity as well as VPC connectivity with other clouds using EC2 instances. Implemented VPC Peering and monitored traffic flow using AWS Cloudwatch.
 
-Project Overview
+Project Overview:
 Secure AWS VPC Design and Implementation
 The goal of this project was to understand the basics of cloud architecture on a more macro level, and familiarize myself with AWS' cloud services.
 Architecture Diagram:
